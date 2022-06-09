@@ -18,6 +18,6 @@ Método	URL	Comportamento esperado
 - PUT	/resources/:id	Altera um recurso existente
 - PATCH	/resources/:id	Altera parcialmente um recurso existente
 - DELETE	/resources/:id	Exclui um recurso existente <br>
-Qual Web Framework? pode ser Express.js, Hapi, Restify, Koa, fastify, o que você preferir :P
-Qual Banco de dados? Mesmo pensamento, pode ser MongoDb, DynamoDb, Postgres, MySql.. enfim, não importa :)
-Atenção: * Você deve se preocupar com sanitização, validação e semântica.
+Qual Web Framework? pode ser Express.js, Hapi, Restify, Koa, fastify, o que você preferir :P<br>
+Qual Banco de dados? Mesmo pensamento, pode ser MongoDb, DynamoDb, Postgres, MySql.. enfim, não importa :)<br>
+**Atenção:** Você deve se preocupar com sanitização, validação e semântica.
