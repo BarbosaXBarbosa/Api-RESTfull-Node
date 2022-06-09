@@ -2,7 +2,7 @@
 Um desafio backend, onde usei o framework do express, com o banco de dados do MongoDb
 
 ## Empresa Field Control
-###{ "challenge": "Backend Developer 1" }
+### "challenge": "Backend Developer 1" 
 Desenvolver uma API JSON RESTful expondo operações de um CRUD.
 
 Pense em algum recurso (use sua criatividade), pode ser gatos, personagens dos senhores do anéis, personagens da marvel, pokemon, enfim, o que você quiser..
